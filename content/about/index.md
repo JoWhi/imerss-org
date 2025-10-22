@@ -1,20 +1,29 @@
 ---
 title: About
-toc: false
+
 ---
 
-Hextra is designed to be a simple, fast, and flexible theme for building modern static websites. It is especially well-suited for documentation websites but can also be used for various types of sites, such as blogs, portfolios, and more.
+## MISSION
 
-Hugo, like Jekyll, is a static site generator. What sets Hugo apart is that it is a single binary, making it easy to install and run on various platforms. It is also extremely fast and reliable, capable of rendering a site with thousands of pages in milliseconds.
+To conduct multidisciplinary ecological research, monitor biodiversity and the environment, and communicate results to better understand and respond to change in the Salish Sea bioregion
 
-Hextra is built with a mindset focused on having a minimal footprint. To get started, no extra dependencies like Node.js packages are required; all you need is a single YAML configuration file, along with your Markdown content. Thus, we can focus on writing quality content instead of setting up tooling.
+## Who We Are
 
-## Credits
+IMERSS is a federally incorporated Canadian non-profit society (1203734-3) and charity (735876336RR0001).
+Our organization represents a multidisciplinary working group of scientists, scholars, artists and community
+members committed to fostering an inclusive culture of research and conservation in a bioregion currently undergoing
+rapid development and change. Engaging individuals and communities in ongoing research and monitoring, we support
+immersive, place-based experiences that foster awareness and respect for the Salish Sea. We take a networked approach
+to collecting, analyzing and sharing ecological data, helping to build community capacity for long-term ecological research at the local and regional scale.
 
-Hextra cannot be built without the following tools and inspirations:
+## Where We Are Based
 
-- [Hugo](https://gohugo.io/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Heroicons](https://heroicons.com/)
-- [Nextra](https://nextra.vercel.app/)
-- [Next.js](https://nextjs.org/)
+IMERSS is based on Galiano Island, in the southern Gulf Islands of British Columbia, yet has a broad bioregional
+focus. Our existing lab facilities support work in both marine and terrestrial ecosystems, enabling a broad range of research.
+
+
+## OBJECTIVES
+
+* To support open community participation in science, scholarship and art, promoting understanding, appreciation, and respect for the Salish Sea bioregion
+* To increase community capacity for long-term ecological research (LTER), toward a dynamic, healthy and interdependent Salish Sea
+* To advance knowledge, technology, and creative expression that strengthens multidisciplinary, cross-cultural and transboundary relationships, while informin

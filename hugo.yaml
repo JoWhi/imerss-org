@@ -2,6 +2,10 @@
 baseURL: "https://imerss.org/"
 title: IMERSS
 
+theme: "hextra"
+
+contentDir: content
+
 relativeUrls: true
 publishDir: docs
 
@@ -51,46 +55,26 @@ enableInlineShortcodes: true
 
 menu:
   main:
-    - identifier: documentation
-      name: Documentation
-      pageRef: /documentation
+    - identifier: home
+      name: Home
+      pageRef: /
       weight: 1
-    - identifier: showcase
-      name: Showcase
-      pageRef: /showcase
-      weight: 2
-    - identifier: blog
-      name: Blog
-      pageRef: /blog
-      weight: 3
-    - identifier: about
-      name: About
+    - identifier: aboutus
+      name: About Us
       pageRef: /about
+      weight: 2
+    - identifier: community
+      name: Community Research
+      pageRef: /community
+      weight: 3
+    - identifier: donate
+      name: Donate
+      url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EHJFF84LNXFES
       weight: 4
     - name: Search
       weight: 5
       params:
         type: search
-    - name: GitHub
-      weight: 6
-      url: "https://github.com/imfing/hextra"
-      params:
-        icon: github
-
-  sidebar:
-    - identifier: more
-      name: More
-      params:
-        type: separator
-      weight: 1
-    - identifier: about
-      name: "About"
-      pageRef: "/about"
-      weight: 2
-    - identifier: hugoDocs
-      name: "Hugo Docs ↗"
-      url: "https://gohugo.io/documentation/"
-      weight: 3
 
 params:
   description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
@@ -99,10 +83,8 @@ params:
     displayTitle: false
     displayLogo: true
     logo:
-      path: images/Arachnoidiscus_schmidtii_web_1-2-scaled.jpg
-      width: 245
-      # height: 20
-      # link: /
+      width: 35
+      height: 30
     width: wide
 
   page:
