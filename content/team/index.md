@@ -1,34 +1,14 @@
 ---
-title: About
-
+title: Our Team
+author: ''
+date: '2026-02-10'
+slug: []
+categories: []
+tags: []
 ---
 
-## MISSION
+<img src="images/Nereocystis_luetkeana_crop.jpg" alt="" width="kelp"/>
 
-To conduct multidisciplinary ecological research, monitor biodiversity and the environment, and communicate results to better understand and respond to change in the Salish Sea bioregion
-
-## Who We Are
-
-IMERSS is a federally incorporated Canadian non-profit society (1203734-3) and charity (735876336RR0001).
-Our organization represents a multidisciplinary working group of scientists, scholars, artists and community
-members committed to fostering an inclusive culture of research and conservation in a bioregion currently undergoing
-rapid development and change. Engaging individuals and communities in ongoing research and monitoring, we support
-immersive, place-based experiences that foster awareness and respect for the Salish Sea. We take a networked approach
-to collecting, analyzing and sharing ecological data, helping to build community capacity for long-term ecological research at the local and regional scale.
-
-## Where We Are Based
-
-IMERSS is based on Galiano Island, in the southern Gulf Islands of British Columbia, yet has a broad bioregional
-focus. Our existing lab facilities support work in both marine and terrestrial ecosystems, enabling a broad range of research.
-
-
-## OBJECTIVES
-
-* To support open community participation in science, scholarship and art, promoting understanding, appreciation, and respect for the Salish Sea bioregion
-* To increase community capacity for long-term ecological research (LTER), toward a dynamic, healthy and interdependent Salish Sea
-* To advance knowledge, technology, and creative expression that strengthens multidisciplinary, cross-cultural and transboundary relationships, while informing research, conservation, and natural history education
-
-## OUR TEAM
 
 ### Emily Adamczyk
 *Chair and Marine Ecology Research Director*
@@ -146,3 +126,41 @@ Since the beginning, Ruth’s research has focussed on ecology and the interacti
 
 Currently, Ruth is leading a study in the Gulf Islands on climate change, fire and the ecology of our Coastal Douglas-fir ecosystems. She helped incorporate climate adaptation into the Salt Spring Island Climate Action Plan, and is a Director with Transition Salt Spring. Ruth loves talking with others about our shared home. She is passionate about what we can do when we work together. So, don’t hesitate to speak with her. Ruth is committed to reconciliation and protecting natural systems, and is grateful to live and learn in the unceded territories of the Hul’qumi’num and SENĆOŦEN speaking peoples, including the Quw’utsun and Tsawout First Nations.
 
+
+## Alternate Layout
+
+### name on right
+
+<span style="display:flex;gap:1.5rem;margin-bottom:2rem;align-items:flex-start;">
+  <span style="flex-shrink:0;width:200px;height:200px;">
+    <img src="images/Ruth.png" style="width:100%;height:100%;object-fit:cover;border-radius:8px;" alt="Person 1">
+  </span>
+  <span style="flex:1;">
+    <h3 style="margin-bottom:0.5rem;">Ruth Waldick</h3>
+    <h4 style="margin-bottom:0.5rem;color:#666;font-weight:500;">Director</h4>
+    <p>Since the beginning, Ruth’s research has focussed on ecology and the interactions of human activities on the environment. In 2003, this naturally led to her work on climate change, its impacts, and how to adapt. She earned her Master’s of Biology at Dalhousie University, focussing on impacts of silvicultural practices on amphibians. She then turned her attention to endangered animals, using population genetics to explore impacted populations, completing her PhD at McMaster University followed by Postdoctoral Studies at Cambridge University.
+
+Currently, Ruth is leading a study in the Gulf Islands on climate change, fire and the ecology of our Coastal Douglas-fir ecosystems. She helped incorporate climate adaptation into the Salt Spring Island Climate Action Plan, and is a Director with Transition Salt Spring. Ruth loves talking with others about our shared home. She is passionate about what we can do when we work together. So, don’t hesitate to speak with her. Ruth is committed to reconciliation and protecting natural systems, and is grateful to live and learn in the unceded territories of the Hul’qumi’num and SENĆOŦEN speaking peoples, including the Quw’utsun and Tsawout First Nations.</p>
+  </span>
+</span>
+
+
+### name on left
+
+<span style="display:flex;gap:1.5rem;margin-bottom:2rem;align-items:flex-start;">
+  <!-- LEFT: Photo + Name + Title -->
+  <span style="flex-shrink:0;display:flex;flex-direction:column;width:200px;">
+    <span style="width:200px;height:200px;">
+      <img src="images/Ruth.png" style="width:100%;height:100%;object-fit:cover;border-radius:8px;" alt="Person 1">
+    </span>
+    <h3 style="margin-top:1rem;margin-bottom:0.25rem;font-size:1.1rem;">Ruth Waldick</h3>
+    <h4 style="margin:0;color:#666;font-size:0.9rem;">Director</h4>
+  </span>
+  
+  <!-- RIGHT: Bio -->
+  <span style="flex:1;">
+    <p>Since the beginning, Ruth’s research has focussed on ecology and the interactions of human activities on the environment. In 2003, this naturally led to her work on climate change, its impacts, and how to adapt. She earned her Master’s of Biology at Dalhousie University, focussing on impacts of silvicultural practices on amphibians. She then turned her attention to endangered animals, using population genetics to explore impacted populations, completing her PhD at McMaster University followed by Postdoctoral Studies at Cambridge University.
+
+Currently, Ruth is leading a study in the Gulf Islands on climate change, fire and the ecology of our Coastal Douglas-fir ecosystems. She helped incorporate climate adaptation into the Salt Spring Island Climate Action Plan, and is a Director with Transition Salt Spring. Ruth loves talking with others about our shared home. She is passionate about what we can do when we work together. So, don’t hesitate to speak with her. Ruth is committed to reconciliation and protecting natural systems, and is grateful to live and learn in the unceded territories of the Hul’qumi’num and SENĆOŦEN speaking peoples, including the Quw’utsun and Tsawout First Nations.</p>
+  </span>
+</span>

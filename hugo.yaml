@@ -77,6 +77,11 @@ menu:
         type: search
 
 params:
+
+  hextra:
+    css:
+      - css/custom.css
+      
   description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
 
   navbar:

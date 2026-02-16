@@ -338,3 +338,30 @@ div.para {
 .search-wrapper .excerpt {
     display: none;
 }
+
+
+/* ===== TEAM SECTION LAYOUT ===== */
+
+
+/* Team layout - photo left, text right */
+.team-item {
+  display: flex !important;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  align-items: flex-start;
+}
+
+.team-photo {
+  flex-shrink: 0;
+  width: 200px;
+}
+
+.team-photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.team-text {
+  flex: 1;
+}
