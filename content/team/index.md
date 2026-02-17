@@ -1,13 +1,9 @@
 ---
-title: Our Team
-author: ''
-date: '2026-02-10'
-slug: []
-categories: []
-tags: []
+title: "Our Team"
+draft: false
 ---
 
-<img src="images/Nereocystis_luetkeana_crop.jpg" alt="" width="kelp"/>
+![mushrooms](images/Header_footer_2_crop.jpg)
 
 
 ### Emily Adamczyk

@@ -1,0 +1,84 @@
+---
+title: "notes"
+author: "Joanne Whitehead"
+date: "`r Sys.Date()`"
+output: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(eval = FALSE)
+```
+
+```{r}
+setwd(".")
+library(blogdown)
+serve_site()
+```
+
+Add a page:
+```{r}
+new_post(title = "team", file  = "team/index.md")
+```
+
+
+# Team
+Code is clean if all photos & bios flow in single column. 
+
+```{r}
+### Ruth Waldick
+*Director*
+![Ruth](images/Ruth.png)
+Since the beginning, Ruth’s research has focussed on ecology and the interactions of human activities on the environment. In 2003, this naturally led to her work on climate change, its impacts, and how to adapt. She earned her Master’s of Biology at Dalhousie University, focussing on impacts of silvicultural practices on amphibians. She then turned her attention to endangered animals, using population genetics to explore impacted populations, completing her PhD at McMaster University followed by Postdoctoral Studies at Cambridge University.
+
+Currently, Ruth is leading a study in the Gulf Islands on climate change, fire and the ecology of our Coastal Douglas-fir ecosystems. She helped incorporate climate adaptation into the Salt Spring Island Climate Action Plan, and is a Director with Transition Salt Spring. Ruth loves talking with others about our shared home. She is passionate about what we can do when we work together. So, don’t hesitate to speak with her. Ruth is committed to reconciliation and protecting natural systems, and is grateful to live and learn in the unceded territories of the Hul’qumi’num and SENĆOŦEN speaking peoples, including the Quw’utsun and Tsawout First Nations.
+```
+
+
+Updated to have photos on left & bios on right:
+
+
+```{r}
+<span style="display:flex;gap:1.5rem;margin-bottom:2rem;align-items:flex-start;">
+  <span style="flex-shrink:0;width:200px;height:200px;">
+    <img src="images/Ruth.png" style="width:100%;height:100%;object-fit:cover;border-radius:8px;" alt="Person 1">
+  </span>
+  <span style="flex:1;">
+    <h3 style="margin-bottom:0.5rem;">Ruth Waldick</h3>
+    <h4 style="margin-bottom:0.5rem;color:#666;font-weight:500;">Director</h4>
+    <p>Since the beginning, Ruth’s research has focussed on ecology and the interactions of human activities on the environment. In 2003, this naturally led to her work on climate change, its impacts, and how to adapt. She earned her Master’s of Biology at Dalhousie University, focussing on impacts of silvicultural practices on amphibians. She then turned her attention to endangered animals, using population genetics to explore impacted populations, completing her PhD at McMaster University followed by Postdoctoral Studies at Cambridge University.
+
+Currently, Ruth is leading a study in the Gulf Islands on climate change, fire and the ecology of our Coastal Douglas-fir ecosystems. She helped incorporate climate adaptation into the Salt Spring Island Climate Action Plan, and is a Director with Transition Salt Spring. Ruth loves talking with others about our shared home. She is passionate about what we can do when we work together. So, don’t hesitate to speak with her. Ruth is committed to reconciliation and protecting natural systems, and is grateful to live and learn in the unceded territories of the Hul’qumi’num and SENĆOŦEN speaking peoples, including the Quw’utsun and Tsawout First Nations.</p>
+  </span>
+</span>
+```
+
+
+Or photo, name, position on left and bio on right:
+
+```{r}
+<span style="display:flex;gap:1.5rem;margin-bottom:2rem;align-items:flex-start;">
+  <!-- LEFT: Photo + Name + Title -->
+  <span style="flex-shrink:0;display:flex;flex-direction:column;width:200px;">
+    <span style="width:200px;height:200px;">
+      <img src="images/Ruth.png" style="width:100%;height:100%;object-fit:cover;border-radius:8px;" alt="Person 1">
+    </span>
+    <h3 style="margin-top:1rem;margin-bottom:0.25rem;font-size:1.1rem;">Ruth Waldick</h3>
+    <h4 style="margin:0;color:#666;font-size:0.9rem;">Director</h4>
+  </span>
+  
+  <!-- RIGHT: Bio -->
+  <span style="flex:1;">
+    <p>Since the beginning, Ruth’s research has focussed on ecology and the interactions of human activities on the environment. In 2003, this naturally led to her work on climate change, its impacts, and how to adapt. She earned her Master’s of Biology at Dalhousie University, focussing on impacts of silvicultural practices on amphibians. She then turned her attention to endangered animals, using population genetics to explore impacted populations, completing her PhD at McMaster University followed by Postdoctoral Studies at Cambridge University.
+
+Currently, Ruth is leading a study in the Gulf Islands on climate change, fire and the ecology of our Coastal Douglas-fir ecosystems. She helped incorporate climate adaptation into the Salt Spring Island Climate Action Plan, and is a Director with Transition Salt Spring. Ruth loves talking with others about our shared home. She is passionate about what we can do when we work together. So, don’t hesitate to speak with her. Ruth is committed to reconciliation and protecting natural systems, and is grateful to live and learn in the unceded territories of the Hul’qumi’num and SENĆOŦEN speaking peoples, including the Quw’utsun and Tsawout First Nations.</p>
+  </span>
+</span>
+```
+
+
+Stop serve: 
+
+```{r}
+servr::daemon_stop()
+```
