@@ -4,7 +4,7 @@ draft: false
 ---
 
 ![mushrooms](images/Header_footer_2_crop.jpg)
-
+<span style="color: #FF5733;">format title to overlay on image?</span>
 
 ### Emily Adamczyk
 *Chair and Marine Ecology Research Director*
@@ -63,7 +63,9 @@ Jeannine lives with her partner Laurie and two of her three children, plus their
 ### Quirin Hohendorf
 *Treasurer*
 ![Quirin](images/Quirin_Hohendorf_bio_pic.png)
-Quirin has a background in forest restoration and re-forestation. He grew up in Germany where he studied forest management, and then moved to BC to earn an MSc in forest restoration from the University of Victoria. After working in forestry consulting and at a forest seedling nursery in different parts of BC, he now works for Canada’s first [drone reforestation](https://www.flashforest.com/) company developing seed pod technology. *please check link*
+Quirin has a background in forest restoration and re-forestation. He grew up in Germany where he studied forest management, and then moved to BC to earn an MSc in forest restoration from the University of Victoria. After working in forestry consulting and at a forest seedling nursery in different parts of BC, he now works for Canada’s first [drone reforestation](https://www.flashforest.com/) company developing seed pod technology. <span style="color: #FF5733;">please check link</span>
+
+
 The core motivation for his work is a curiosity about how we live on and with the land. What makes up ecologically sound resource management? How can we use ecosystem services while conserving or improving their health?
 Quirin has served on the board of directors for [The Starfish Canada](https://thestarfish.ca/) and [UVic’s Graduate Student Society](https://gss.uvic.ca/), and now brings his skills to IMERSS. He first came to Galiano Island during an internship in 2014 and returned for his MSc thesis research about a unique forest restoration project conducted by the Galiano Conservancy. Quirin now lives in Vancouver with his partner Camille and visits Galiano Island whenever possible.
 
@@ -76,7 +78,8 @@ The whole of the biological, chemical and physical world is of interest to Elain
 
 Elaine’s master’s degree included a benthic meiofaunal investigation of an intertidal zone, and it was an open research project for Galiano. Sorting and identifying organisms is an intensive undertaking, and she needed help. What better way than to make it a citizen science project through IMERSS?
 
-For more information about Elaine’s career, see her interview in Women in Science. *broken link*
+For more information about Elaine’s career, see her interview in Women in Science. <span style="color: #FF5733;">broken link</span>
+
 
 ### Laura Jimenez
 *Secretary*
