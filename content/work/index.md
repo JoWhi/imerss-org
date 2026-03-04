@@ -1,7 +1,7 @@
 ---
 title: "Our Work"
-date: 2026-02-02T13:09:14-08:00
-draft: true
+date: 2026-03-02
+draft: false
 ---
 
 ## Weaving Perspectives on Local Biodiversity
@@ -21,5 +21,56 @@ Communities have important roles to play in monitoring biodiversity in local pla
 ![](images/Laura_Colwell.jpg)
 IMERSS strives to foster opportunities for learning within and across communities of practice. From opportunities for youth and others to learn about microscopy through Microscopic Explorations, to internships and artist collaborations, we aim to build community and deepen knowledge through interdisciplinary place-based learning.
 
+
 ## Explore our Projects!
+
+{{< cards >}}
+  {{< card link="/projects/sentinels-of-change" 
+    title="Sentinels of Change" 
+    subtitle="Light trap in Whaler Bay to collect population data on Dungeness crab larvae."   
+    image="/projects/images/Brenna-light-trap.jpg" >}}
+  {{< card link="/projects/diatoms" 
+    title="Diatoms of the Salish Sea" subtitle="An ongoing taxonomic inventory of the diatoms of the Salish Sea." 
+    image="/projects/images/SHW-Stub-13-TM4000.jpg" >}}
+  {{< card link="/projects/extirpation" 
+    title="20/20 Vision on Plant Extirpation" 
+    subtitle="An initiative to locate 12 plant species identified as being at risk of extirpation from Galiano Island." 
+    image="/projects/images/Hannah_Harvey_orchid_search_3.JPG">}}
+  {{< card link="/projects/operation-galiwatch" 
+    title="Operation GaliWatch" 
+    subtitle="Developing low-cost data collection and analysis systems for long-term pollinator surveillance and hyperlocal weather and climate monitoring." 
+    image="/projects/images/Gali-Watch.jpg">}}
+   {{< card link="/projects/janszen-legacy" 
+    title="Janszen Legacy Project" 
+    subtitle="Curating a critical baseline record of the vascular plant diversity of the Salish Sea–legacy of the late Harvey Janszen (July 11, 1946–May 10, 2021)." 
+    image="/projects/images/HJ-236x250.png">}}
+  {{< card link="/projects/maritime-lichens" 
+    title="Maritime Lichens of the Salish Sea" 
+    subtitle="Studying the diversity and distribution of maritime lichens in the Salish Sea." 
+    image="/projects/images/missing.png">}}
+   {{< card link="/projects/eelgrass" 
+    title="Eelgrass Community Ecology" 
+    subtitle="A newly initiated research partnership between IMERSS and Parfrey Lab (UBC) exploring the microscopic worlds of eelgrass community ecology." 
+    image="/projects/images/Zostera_marina.jpeg">}}
+  {{< card link="/projects/microscopic-explorations" 
+    title="Microscopic Explorations" 
+    subtitle="A science outreach program connecting communities with the wonders of natural history, as seen through the lens of microscopy, hosted by Dr. Elaine Humphrey." 
+    image="/projects/images/missing.jpeg">}}
+   {{< card link="/projects/biodiversity-informatics" 
+    title="Biodiversity Informatics Working Group" 
+    subtitle="A multidisciplinary working group advancing innovative approaches to organizing and communicating biodiversity data." 
+    image="/projects/images/Bio_informatics.jpg">}}
+  {{< card link="/projects/ecocultural-mapping" 
+    title="Ecocultural Mapping Pilot" 
+    subtitle="Weaving biodiversity data, Indigenous language, and place-based knowledge into an eco-cultural mapping framework." 
+    image="/projects/images/Xetthecum.jpg">}}
+  {{< card link="/projects/microclimate-monitoring" 
+    title="Microclimate Monitoring" 
+    subtitle="A community effort to monitor local scale microclimatic variation, helping to predict future climate impacts." 
+    image="/projects/images/Galiano_Wx.JPG">}}
+  {{< card link="/projects/biodiversity-galiano" 
+    title="Biodiversity Galiano Island" 
+    subtitle="A community-based initiative to document the flora and fauna of Galiano Island, BC." 
+    image="/projects/images/missing">}}
+{{< /cards >}}
 

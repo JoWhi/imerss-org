@@ -5,7 +5,7 @@ draft: true
 ---
 
 ## Zeffy
-<span style="color: #FF5733;">need webform</span>
+<span style="color: #FF5733;">add webform</span>
 <img src="images/zeffy.svg" alt="zeffy" width="50%"/>
 Donate through Zeffy to receive an immediate Canadian charitable donation tax receipt.
 
@@ -15,5 +15,5 @@ Click here to donate through Paypal, and receive a tax receipt at the end of the
   <img src="images/PayPal.svg.png" alt="Donate via PayPal" style="border:0;">
 </a>
 
-<span style="color: #FF5733;">the link in the menu takes you to a paypal webform, but the same link doesn't display directly from this page.</span>
+<span style="color: #FF5733;">"Donate" in the menu takes you to a paypal webform, but the same link doesn't display directly from this page.</span>
 

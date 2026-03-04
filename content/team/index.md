@@ -1,6 +1,5 @@
 ---
 title: "Our Team"
-draft: false
 ---
 
 ![mushrooms](images/Header_footer_2_crop.jpg)
@@ -60,14 +59,6 @@ Jeannine plays a dynamic role in IMERSS, co-leading the Xetthecum ecocultural ma
 
 Jeannine lives with her partner Laurie and two of her three children, plus their cats Lilo and Stitch, Cronk the bearded dragon, Pug the Pug, some fish, as well as Austin’s collection of ants and a couple of spiders. Reading is one of her favourite hobbies. She feels most at peace when near the water, relaxing or exploring.
 
-### Quirin Hohendorf
-*Treasurer*
-![Quirin](images/Quirin_Hohendorf_bio_pic.png)
-Quirin has a background in forest restoration and re-forestation. He grew up in Germany where he studied forest management, and then moved to BC to earn an MSc in forest restoration from the University of Victoria. After working in forestry consulting and at a forest seedling nursery in different parts of BC, he now works for Canada’s first [drone reforestation](https://www.flashforest.com/) company developing seed pod technology. <span style="color: #FF5733;">please check link</span>
-
-
-The core motivation for his work is a curiosity about how we live on and with the land. What makes up ecologically sound resource management? How can we use ecosystem services while conserving or improving their health?
-Quirin has served on the board of directors for [The Starfish Canada](https://thestarfish.ca/) and [UVic’s Graduate Student Society](https://gss.uvic.ca/), and now brings his skills to IMERSS. He first came to Galiano Island during an internship in 2014 and returned for his MSc thesis research about a unique forest restoration project conducted by the Galiano Conservancy. Quirin now lives in Vancouver with his partner Camille and visits Galiano Island whenever possible.
 
 ### Elaine Humphrey
 *Director*
@@ -81,15 +72,6 @@ Elaine’s master’s degree included a benthic meiofaunal investigation of an i
 For more information about Elaine’s career, see her interview in Women in Science. <span style="color: #FF5733;">broken link</span>
 
 
-### Laura Jimenez
-*Secretary*
-![Laura](images/Laura_Jimenez.png)
-Laura is a criminal lawyer, visual artist, and nature lover. Above all, she believes in the interconnectedness of all things and our reciprocal responsibility to care for each other and our world.
-
-She changed her mind several times during her undergraduate degree and studied studio art, political science and organic agriculture. She then worked as the coordinator of a foodbank before moving on to a career as a professional artist. She was based in Toronto’s Portlands for a number of years, working both as a solo artist and as a member of the VSVSVS collective, with whom she ran an artist-run-center and international artist-in-residency program out of their shared home. 
-
-As a lawyer, Laura is focused on wrongful conviction and works to help exonerate those who have been convicted of crimes they did not commit. She worked at the Innocence Project at Osgoode Hall Law School, and as a Fellowship Student, Articling Student, and Staff Lawyer for Innocence Canada. She is now in Los Angeles, California where she continues to work in this area. She lives with her three cats and her husband, Arturo, with whom she spends a lot of time hiking and exploring nature. She is happiest at the ocean.
-
 ### Alysha T. Jones
 *Director*
 ![Alysha](images/Alysha_Jones.png)
@@ -98,16 +80,6 @@ Alysha (she/her) is a nurse educator, community health nurse, and planetary heal
 Alysha has an MSc in Holistic Science from Schumacher College in the UK and an MScN from the University of Northern BC. At UNBC, she has co-created and co-taught one of Canada’s few nursing courses on planetary health and environmental justice. Alysha is pursuing a diploma in Restoration of Natural Systems at the University of Victoria, aiming to practice ecological restoration as planetary health promotion.
 
 As a white settler, Alysha is committed to solidarity with Indigenous-led decolonization and conservation. She lives in Sooke, BC, on the territory of the T’Sou-ke and Sc’ianew Nations.
-
-### Kendall McLaughlin
-*Director*
-![Kendall](images/Kendall_McLaughlin.png)
-Kendall (they/she) is an alum from UBC Forestry’s Conservation program. They have focused their career in the nonprofit sector, through volunteering and employment for organizations such as Stanley Park Ecology Society and Galiano Conservancy Association. Kendall is a wetland biologist that travels around the province with the BC Wildlife Federation surveying, maintaining, and restoring wetlands.
-
-Kendall discovered IMERSS through the Paddling for Biodiversity 2023 fundraiser. With Kendall’s enthusiasm for conservation, they hope to spread awareness of all the incredible work IMERSS does for the Salish Sea.
-
-Kendall is a resident on Galiano Island. They love spending their days off at the beach identifying creatures in the intertidal zone and foraging around Galiano’s pristine forests. Kendall also hosts monthly coastal waterbird surveys on behalf of Birds Canada at Montague Harbour Provincial Park.
-To learn more about Kendall’s experiences, connect with them on [LinkedIn](https://www.linkedin.com/in/kendallmclaughlin/).
 
 ### Andrew Simon
 *President*
@@ -128,38 +100,15 @@ Currently, Ruth is leading a study in the Gulf Islands on climate change, fire a
 
 ## Alternate Layout
 
-### name on right
+{{< cards >}}
+  {{< card title="Emily Adamczyk" 
+    subtitle="Chair and Marine Ecology Research Director"
+    image="/team/images/Emily_Adamczyk_2.png" >}}
+  {{< card title="Johnny Aitken" 
+    subtitle="Indigenous Creative Director"
+    image="/team/images/Johnny.png" >}}
+  {{< card title="Dana Ayotte"
+    subtitle="Inclusive Designer"
+    image="/team/images/Dana.png" >}}
+{{< /cards >}}
 
-<span style="display:flex;gap:1.5rem;margin-bottom:2rem;align-items:flex-start;">
-  <span style="flex-shrink:0;width:200px;height:200px;">
-    <img src="images/Ruth.png" style="width:100%;height:100%;object-fit:cover;border-radius:8px;" alt="Person 1">
-  </span>
-  <span style="flex:1;">
-    <h3 style="margin-bottom:0.5rem;">Ruth Waldick</h3>
-    <h4 style="margin-bottom:0.5rem;color:#666;font-weight:500;">Director</h4>
-    <p>Since the beginning, Ruth’s research has focussed on ecology and the interactions of human activities on the environment. In 2003, this naturally led to her work on climate change, its impacts, and how to adapt. She earned her Master’s of Biology at Dalhousie University, focussing on impacts of silvicultural practices on amphibians. She then turned her attention to endangered animals, using population genetics to explore impacted populations, completing her PhD at McMaster University followed by Postdoctoral Studies at Cambridge University.
-
-Currently, Ruth is leading a study in the Gulf Islands on climate change, fire and the ecology of our Coastal Douglas-fir ecosystems. She helped incorporate climate adaptation into the Salt Spring Island Climate Action Plan, and is a Director with Transition Salt Spring. Ruth loves talking with others about our shared home. She is passionate about what we can do when we work together. So, don’t hesitate to speak with her. Ruth is committed to reconciliation and protecting natural systems, and is grateful to live and learn in the unceded territories of the Hul’qumi’num and SENĆOŦEN speaking peoples, including the Quw’utsun and Tsawout First Nations.</p>
-  </span>
-</span>
-
-
-### name on left
-
-<span style="display:flex;gap:1.5rem;margin-bottom:2rem;align-items:flex-start;">
-  <!-- LEFT: Photo + Name + Title -->
-  <span style="flex-shrink:0;display:flex;flex-direction:column;width:200px;">
-    <span style="width:200px;height:200px;">
-      <img src="images/Ruth.png" style="width:100%;height:100%;object-fit:cover;border-radius:8px;" alt="Person 1">
-    </span>
-    <h3 style="margin-top:1rem;margin-bottom:0.25rem;font-size:1.1rem;">Ruth Waldick</h3>
-    <h4 style="margin:0;color:#666;font-size:0.9rem;">Director</h4>
-  </span>
-  
-  <!-- RIGHT: Bio -->
-  <span style="flex:1;">
-    <p>Since the beginning, Ruth’s research has focussed on ecology and the interactions of human activities on the environment. In 2003, this naturally led to her work on climate change, its impacts, and how to adapt. She earned her Master’s of Biology at Dalhousie University, focussing on impacts of silvicultural practices on amphibians. She then turned her attention to endangered animals, using population genetics to explore impacted populations, completing her PhD at McMaster University followed by Postdoctoral Studies at Cambridge University.
-
-Currently, Ruth is leading a study in the Gulf Islands on climate change, fire and the ecology of our Coastal Douglas-fir ecosystems. She helped incorporate climate adaptation into the Salt Spring Island Climate Action Plan, and is a Director with Transition Salt Spring. Ruth loves talking with others about our shared home. She is passionate about what we can do when we work together. So, don’t hesitate to speak with her. Ruth is committed to reconciliation and protecting natural systems, and is grateful to live and learn in the unceded territories of the Hul’qumi’num and SENĆOŦEN speaking peoples, including the Quw’utsun and Tsawout First Nations.</p>
-  </span>
-</span>

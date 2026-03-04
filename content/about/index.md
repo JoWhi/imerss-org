@@ -4,7 +4,7 @@ title: About Us
 ---
 
 ![](images/Nereocystis_luetkeana_crop.jpg)
-<span style="color: #FF5733;">format title to overlay on image?</span>
+<span style="color: #FF5733;">format title to overlay on image</span>
 
 ## MISSION
 
@@ -27,15 +27,12 @@ IMERSS is based on Galiano Island, in the southern Gulf Islands of British Colum
 
 ## Our Values
 
-![](images/Austin_SEM_4.jpg)
-### Mentorship
-<span style="color: #FF5733;">do you want any text here?</span>
-
-![](images/Sutil_circle_3.jpg)
-### Community Building
-<span style="color: #FF5733;">do you want any text here?</span>
-
-![](images/Marine_research.JPG)
-### Connection to Place
-<span style="color: #FF5733;">do you want any text here?</span>
+{{< cards >}}
+  {{< card title="Mentorship" 
+    image="/about/images/Austin_SEM_4.jpg" >}}
+  {{< card title="Community Building" 
+    image="/about/images/Sutil_Circle_small.jpg" >}}
+  {{< card title="Connection to Place" 
+    image="/about/images/Marine_research.JPG" >}}
+{{< /cards >}}
 
