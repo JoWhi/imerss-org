@@ -183,8 +183,10 @@ table {
     --bs-btn-font-size: 1rem;
     --bs-btn-font-weight: 400;
     --bs-btn-line-height: 1.5;
-    --bs-btn-color: var(--bs-body-color);
-    --bs-btn-bg: transparent;
+    /* --bs-btn-color: var(--bs-body-color);
+    --bs-btn-bg: transparent; */ 
+    --bs-btn-color: #ffffff;
+    --bs-btn-bg: #30638e;
     --bs-btn-border-width: var(--bs-border-width);
     --bs-btn-border-color: transparent;
     --bs-btn-border-radius: var(--bs-border-radius);
@@ -364,4 +366,96 @@ div.para {
 
 .team-text {
   flex: 1;
+}
+
+
+/* ===== added by Joanne ===== */
+
+/* allow images to sit beside text */
+
+img[src$='#floatright'] {
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    width: 40% !important;
+}
+
+img[src$='#floatleft'] {
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    width: 40% !important;
+}
+
+
+/* full-width banner images */
+
+.hero-image {
+  position: relative;
+  width: 100vw;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  margin-bottom: 2rem;
+  overflow: hidden;
+}
+
+.hero-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+  max-height: 450px;
+}
+
+/* for a centre title */
+/*.hero-image .hero-title {
+  position: absolute;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #fff;
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-align: center;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.6);
+  padding: 0.5rem 1.5rem;
+  border-radius: 0.4rem;
+} */
+
+/* for a left title */
+.hero-image .hero-title {
+  position: absolute;
+  bottom: 2rem;
+  left: 4rem;
+  color: #fff;
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-align: left;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.6);
+  padding: 0.5rem 1.5rem;
+  border-radius: 0.4rem;
+}
+
+/* adjust spacing */
+.content br.hx-mt-1.5,
+.content div.hx-mb-16 {
+  display: none !important;
+}
+
+main, .page-main, .content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+
+/* small logos in socials cards */
+.social-card .hextra-card img {
+  width: 50px !important;
+  height: 50px !important;
+  margin: 0 auto !important;
+  display: block !important;
 }

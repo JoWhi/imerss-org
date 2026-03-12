@@ -1,19 +1,27 @@
 ---
-title: "Donate"
-date: 2026-02-02T13:09:14-08:00
-draft: true
+title:
+date: 2026-03-11
 ---
 
-## Zeffy
-<span style="color: #FF5733;">add webform</span>
-<img src="images/zeffy.svg" alt="zeffy" width="50%"/>
-Donate through Zeffy to receive an immediate Canadian charitable donation tax receipt.
+<div class="hero-image">
+  <img src="images/Usnea_crop.jpg" alt="Usnea">
+  <div class="hero-title">
+    Donate
+  </div>
+</div>
 
-## Paypal
-Click here to donate through Paypal, and receive a tax receipt at the end of the year.
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EHJFF84LNXFES" target="_blank">
-  <img src="images/PayPal.svg.png" alt="Donate via PayPal" style="border:0;">
-</a>
+**Your donation helps to support biodiversity research and community-based conservation work on Galiano Island, throughout the Salish Sea and beyond!**
 
-<span style="color: #FF5733;">"Donate" in the menu takes you to a paypal webform, but the same link doesn't display directly from this page.</span>
+Here are two options for making your donation online. Feel free to [contact us](mailto:info@immers.org?subject=Donation%20Opportunities) to discuss other ways to contribute!
+
+
+![Zeffy logo](images/zeffy.svg#floatleft)
+Donating through Zeffy is easy, with Canadian charitable tax receipts issued directly. Please note that there is a discretionary administration fee. 
+
+<div style="position:relative;overflow:hidden;height:450px;width:100%;"><iframe title='Donation form powered by Zeffy' style='position: absolute; border: 0; top:0;left:0;bottom:0;right:0;width:100%;height:100%' src='https://www.zeffy.com/embed/donation-form/imerss-donation' allowpaymentrequest allowTransparency="true"></iframe></div>
+
+
+![Paypal logo](images/PayPal.png#floatleft)
+If you prefer to use Paypal, do so here, and we will issue a tax receipt at the end of the year. 
+
 

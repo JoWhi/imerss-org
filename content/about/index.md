@@ -1,10 +1,15 @@
 ---
-title: About Us
-
+title:
+date: 2026-03-02
 ---
 
-![](images/Nereocystis_luetkeana_crop.jpg)
-<span style="color: #FF5733;">format title to overlay on image</span>
+<div class="hero-image">
+  <img src="images/Nereocystis_luetkeana_crop.jpg" alt="Nereocystis luetkeana">
+  <div class="hero-title">
+    About Us
+  </div>
+</div>
+
 
 ## MISSION
 

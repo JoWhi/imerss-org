@@ -1,35 +1,44 @@
 ---
-title: "Get Involved"
-date: 2026-02-02T13:09:14-08:00
-draft: true
+title:
+date: 2026-02-02
 ---
 
-## Become a Member!
-Join the IMERSS community and support our work by becoming a member today! Annual membership fee is $20 and members will receive a charitable tax receipt.
-
-<span style="color: #FF5733;">add zeffy form</span>
-
-## Join our List-Serv!
-Join our list-serv to receive our seasonal e-newsletter about projects ,events and more.
-
-<span style="color: #FF5733;">add zeffy form</span>
-
-## Volunteer!
-Dive in! Find out about volunteer opportunities such as tabling at outreach booths, helping at events, or joining one of our committees, by contacting us at info@imerss.org. 
-
-## Upcoming Events
-Check here, sign up for our list-serv, or follow us on social media to hear about upcoming events.
-
-<span style="color: #FF5733;">other socials?</span>
-<img src="images/Instagram_icon.png" alt="Instagram" width="50px" height="50px"/>
-[<i class="fab fa-instagram"></i> Follow us on Instagram](https://instagram.com/immers_labs) 
+<div class="hero-image">
+  <img src="images/Galiano_KK_skyline.jpg" alt="skyline">
+  <div class="hero-title">
+    Get Involved
+  </div>
+</div>
 
 
-## Internship Opportunities
-Check here or join our list-serv to hear about upcoming internship opportunities.
-
-<span style="color: #FF5733;">list-serv/email/socials?</span>
-
-## Project Collaborations
-We are happy to connect about possible collaborations. Please feel free to reach out at info@imerss.org. 
+{{< cards >}}
+   {{< card link="https://www.zeffy.com/en-CA/ticketing/b0028ba0-0387-49c7-93b3-4081ada3f140" 
+      title="Become a Member!" 
+      subtitle="Join the IMERSS community and support our work by becoming a member today!" 
+      image="images/Sutil_circle_crop.jpg">}} 
+    {{< card link="https://www.zeffy.com/en-CA/newsletter-form/subscribe-to-get-notified-about-new-events-41012" 
+      title="Subscribe to our Newsletter!" 
+      subtitle="Sign up to receive our seasonal e-newsletter about projects, upcoming events, opportunities and more." 
+      image="images/Field_research.jpg">}} 
+    {{< card link="mailto:info@immers.org?subject=Volunteer%20Opportunities"
+      title="Volunteer!" 
+      subtitle="Dive in! Email us to find out about volunteer opportunities such as helping at events or joining one of our committees." 
+      image="images/Hakai.jpeg">}}
+    {{< card link="mailto:info@immers.org?subject=Internship%20Opportunities"
+      title="Become an Intern!" 
+      subtitle="Email us to find out about upcoming internship opportunities." 
+      image="images/Field_research_2.jpg">}} 
+    {{< card link="mailto:info@immers.org?subject=Collaboration%20Opportunities"
+      title="Project Collaborations" 
+      subtitle="We are happy to connect about possible collaborations. Please reach out!" 
+      image="images/Pseudotsuga_3_crop.jpg">}}
+    <div class="social-card">
+      {{< card link="https://instagram.com/immers_labs"
+        title="Follow us on Instagram!" 
+        image="images/Instagram_icon.png" >}}
+      {{< card link="https://www.facebook.com/IMERSS.labs/"
+        title="Follow us on Facebook!" 
+        image="images/facebook-icon.png" >}}
+    </div> 
+{{< /cards >}}
 

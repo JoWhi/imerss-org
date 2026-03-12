@@ -2,7 +2,7 @@
 baseURL: "https://imerss.org/"
 title: IMERSS
 
-theme: "hextra"
+theme: ["hextra", "hugo-cite"]
 
 contentDir: content
 
@@ -82,7 +82,8 @@ menu:
       weight: 5
     - identifier: donate
       name: Donate
-      url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EHJFF84LNXFES
+      #url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EHJFF84LNXFES
+      pageRef: /donate
       weight: 6
     - name: Search
       weight: 7
