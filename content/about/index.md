@@ -30,6 +30,7 @@ IMERSS is based on Galiano Island, in the southern Gulf Islands of British Colum
 * To increase community capacity for long-term ecological research (LTER), toward a dynamic, healthy and interdependent Salish Sea
 * To advance knowledge, technology, and creative expression that strengthens multidisciplinary, cross-cultural and transboundary relationships, while informing research, conservation, and natural history education
 
+
 ## Our Values
 
 {{< cards >}}
@@ -40,4 +41,9 @@ IMERSS is based on Galiano Island, in the southern Gulf Islands of British Colum
   {{< card title="Connection to Place" 
     image="/about/images/Marine_research.JPG" >}}
 {{< /cards >}}
+
+
+## Territorial Acknowledgement
+
+Our transboundary community spans the ancestral territories of Coast Salish peoples who have lived in relationship with these diverse ecosystems since time immemorial. We understand that acknowledging peoples and territories is an active process that involves an ongoing practice of nurturing respectful relationships among Indigenous and settler peoples. We commit to this practice and seek ways to deepen relationships between lands and peoples through this work.
 
