@@ -64,29 +64,35 @@ menu:
       pageRef: /about
       weight: 2
     - identifier: team
-      name: "Team"
+      name: "Our Team"
       pageRef: /team
       parent: aboutus
       weight: 1
-    - identifier: team
-      name: Our Team
-      pageRef: /team
-      weight: 3
     - identifier: work
       name: "Our Work"
       pageRef: /work
-      weight: 4
+      weight: 3
+    - identifier: contributions
+      name: "Contributions"
+      pageRef: /contributions
+      parent: work
+      weight: 1
+    - identifier: media
+      name: "Media"
+      pageRef: /media
+      parent: work
+      weight: 2
     - identifier: involved
       name: "Get Involved"
       pageRef: /involved
-      weight: 5
+      weight: 4
     - identifier: donate
       name: Donate
       #url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EHJFF84LNXFES
       pageRef: /donate
-      weight: 6
+      weight: 5
     - name: Search
-      weight: 7
+      weight: 6
       params:
         type: search
 
@@ -170,4 +176,6 @@ params:
       # inputPosition: top
       # lang: en
       # theme: noborder_dark
+      
+      
       

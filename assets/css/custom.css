@@ -459,3 +459,13 @@ main, .page-main, .content {
   margin: 0 auto !important;
   display: block !important;
 }
+
+/* allow nested menus to display properly */
+.sub-menu {
+  position: absolute;
+  display: none; /* Hide by default */
+  /* Add styling for dropdown */
+}
+.relative:hover .sub-menu {
+  display: block; /* Show on hover */
+}
