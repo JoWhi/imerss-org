@@ -469,3 +469,10 @@ main, .page-main, .content {
 .relative:hover .sub-menu {
   display: block; /* Show on hover */
 }
+
+
+/* trying to remove whitespace between navbar and content */
+main[class*="hx-pt-4"] {
+  padding-top: 0 !important;
+}
+

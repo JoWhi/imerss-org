@@ -10,43 +10,29 @@ date: 2026-03-02
   </div>
 </div>
 
+## Weaving Perspectives on Local Biodiversity
+![Xetthecum](images/Xetthecum.jpg#floatleft)
 
-# Research and Collaboration Themes
-
-{{< cards >}}
-  {{< card link="#ecocultural-mapping" 
-    title="Eco-cultural Mapping" 
-    subtitle="" 
-    image="images/Xetthecum.jpg">}}
-  {{< card link="#community-research" 
-    title="Long-term Community Ecological Research" 
-    subtitle="" 
-    image="images/J9_LightTraps.jpeg">}}
-  {{< card link="#data-science" 
-    title="Living Data Science" 
-    subtitle="" 
-    image="images/Bio_informatics.jpg">}}
-  {{< card link="#education" 
-    title="Public Education" 
-    subtitle="" 
-    image="images/Laura_Colwell.jpg">}}
-{{< /cards >}}
-
-
-## Eco-cultural Mapping {#ecocultural-mapping}
 We can enrich our understanding of the Salish Sea bioregion by weaving Indigenous and Western scientific place-based knowledge. In this spirit, eco-cultural mapping pilot project *Xetthecum* integrates biodiversity data with Indigenous knowledge and stories into an interactive map that harnesses design, data visualization and artistic practice to deepen place-based learning. *Xetthecum* is providing a basis for the work of our partners [Whiteswan Environmental](https://www.whiteswanenvironmental.org/) in mapping sites of ancestral significance across the region.
 
+<div style="clear: both;"></div>
+
+### Projects
 {{< cards >}}
    {{< card link="/projects/ecocultural-mapping" 
-    title="Xetthecum Ecocultural Mapping Pilot" 
+    title="Ecocultural Mapping Pilot" 
     subtitle="Weaving biodiversity data, Indigenous language, and place-based knowledge into an eco-cultural mapping framework." 
     image="/projects/images/Xetthecum.jpg">}} 
 {{< /cards >}}
 
+## Fostering Community-based Longterm Ecological Research
+![light trap](images/J9_LightTraps.jpeg#floatleft)
 
-## Long-term Community Ecological Research {#community-research}
 Communities have important roles to play in monitoring biodiversity in local places over the long term. This is the underpinning of long-term ecological research, and the inspiration behind the project Biogaliano, the seed from which IMERSS was formed. From [Sentinels of Change](https://sentinels.hakai.org/) dungeness crab monitoring, to our eelgrass and diatom community research, to marine lichens and local climate monitoring, we are fostering community-based efforts to better understand change in this bioregion. To connect communities involved in this work of long-term ecological research, we are partenered with the [Hakai Insitute](https://hakai.org/) on the creation of a transboundary bioregional resource, the [Community Atlas for the Salish Sea](https://salishsea.wwu.edu/islands-salish-sea-online-community-atlas).
 
+<div style="clear: both;"></div>
+
+### Projects
 {{< cards >}}
     {{< card link="/projects/sentinels-of-change" 
       title="Sentinels of Change" 
@@ -83,14 +69,20 @@ Communities have important roles to play in monitoring biodiversity in local pla
 {{< /cards >}}
 
 
-## Living Data Science {#data-science}
-Preserving the work of dedicated naturalists who have monitored the bioregion over decades allows us to inform historical baselines and overall biodiversity knowledge. This work feeds into our development of [bioinformatics frameworks](https://imerss.github.io/imerss-bioinfo/) for ongoing tracking of biodiversity data from communities across the region.
+## Supporting Cross-disciplinary Learning and Practice
+![](images/Laura_Colwell.jpg#floatleft)
+
+IMERSS strives to foster opportunities for learning within and across communities of practice. From opportunities for youth and others to learn about microscopy through Microscopic Explorations, to internships and artist collaborations, we aim to build community and deepen knowledge through interdisciplinary place-based learning.
+
+<div style="clear: both;"></div>
+
+### Projects
 
 {{< cards >}}
-  {{< card link="/projects/janszen-legacy" 
-    title="Janszen Legacy Project" 
-    subtitle="Curating a critical baseline record of the vascular plant diversity of the Salish Sea–legacy of the late Harvey Janszen (July 11, 1946–May 10, 2021)." 
-    image="/projects/images/HJ-236x250.png">}}
+  {{< card link="/projects/microscopic-explorations" 
+    title="Microscopic Explorations" 
+    subtitle="A science outreach program connecting communities with the wonders of natural history, as seen through the lens of microscopy, hosted by Dr. Elaine Humphrey." 
+    image="/projects/images/missing.jpeg">}}
   {{< card link="/projects/biodiversity-informatics" 
     title="Biodiversity Informatics Working Group" 
     subtitle="A multidisciplinary working group advancing innovative approaches to organizing and communicating biodiversity data." 
@@ -98,13 +90,23 @@ Preserving the work of dedicated naturalists who have monitored the bioregion ov
 {{< /cards >}}
 
 
-## Public Education {#education}
-IMERSS strives to foster opportunities for learning within and across communities of practice. From opportunities for youth and others to learn about microscopy through Microscopic Explorations, to internships and artist collaborations, we aim to build community and deepen knowledge through interdisciplinary place-based learning.
+## Living Data: Preserving Legacy Datasets
+![bio-informatics](images/Herbarium_voucher_specimens_crop.jpg#floatleft)
+
+How can we preserve the work of dedicated naturalists who have monitored the bioregion over decades? This is the impetus behind the Janszen Legacy Project, which aims to preserve the extensive records of renowned naturalist Harvey Janszen to inform historical baselines and overall biodiversity knowledge in the bioregion. This project also feeds into our work developing [bioinformatics frameworks](https://imerss.github.io/imerss-bioinfo/) for tracking biodiversity data from communities across the region.
+
+<div style="clear: both;"></div>
+
+### Projects
 
 {{< cards >}}
-  {{< card link="/projects/microscopic-explorations" 
-    title="Microscopic Explorations" 
-    subtitle="A science outreach program connecting communities with the wonders of natural history, as seen through the lens of microscopy, hosted by Dr. Elaine Humphrey." 
-    image="/projects/images/Austin_SEM_2.jpg">}}
+  {{< card link="/projects/janszen-legacy" 
+    title="Janszen Legacy Project" 
+    subtitle="Curating a critical baseline record of the vascular plant diversity of the Salish Sea–legacy of the late Harvey Janszen (July 11, 1946–May 10, 2021)." 
+    image="/projects/images/HJ-236x250.png">}}
+  {{< card link="/projects/biodiversity-galiano" 
+    title="Biodiversity Galiano Island" 
+    subtitle="A community-based initiative to document the flora and fauna of Galiano Island, BC." 
+    image="/projects/images/missing">}}
 {{< /cards >}}
 

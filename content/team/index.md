@@ -12,7 +12,7 @@ date: 2026-03-02
 
 
 ### Emily Adamczyk
-#### Chair and Marine Ecology Research Director
+#### Treasurer and Marine Ecology Research Director
 ![Emily](images/Emily_Adamczyk_2.png#floatleft)
 
 Emily found her passion for ecology while growing up in the foothills of the San Gabriel mountains in Southern California. Her curiosity about the natural world led her to complete her B.S. and M.S. in Biology from the University of California, San Diego. Emily’s interest in coastal ecosystems prompted a northward move to Vancouver, BC, where she earned her Ph.D. in Zoology at the University of British Columbia. Her thesis focused on understanding the effects of human activities, space, and time on eelgrass-associated invertebrate and microbial diversity.
@@ -32,9 +32,7 @@ As a wood carver, Johnny’s highlight has been carving a twenty-foot figure cal
 
 Johnny’s love of performing on stage began while dancing with Lynda Raino back in the 1980s in Victoria B.C. Johnny is currently co-writing a series of children’s books with his friend Jess Willows which has a focus on reconciliation and friendship. He is also of writing his first novel which explores his complicated mixed lineage, titled “Mixed-up!”.
 
-Johnny considers himself a cross cultural bridge builder, a lifetime occupation he takes very seriously with a lot of humour!  
-
-Johnny joined the IMERSS Team in 2021. 
+Johnny considers himself a cross cultural bridge builder, a lifetime occupation he takes very seriously with a lot of humour!  Johnny joined the IMERSS Team in 2021. 
 
 <div style="clear: both;"></div>
 
@@ -62,14 +60,18 @@ Interests: JavaScript, inclusive and feminist data science, ecocultural mapping,
 
 
 ### Hannah Carpendale
-#### Director
+#### Secretary
 ![Hannah](images/Hannah_Carpendale.png#floatleft)
 
-Hannah comes from an interdisciplinary background spanning social sciences, writing, artistic movement-based practices and coastal/forest ecology. Merging a deep love for nature with a passion for creative expression, she has collaborated on a number of interdisciplinary projects, including the ecological dance film Verge: Dancing a Scarred and Sacred Landscape and the site-specific performance Water Bodies, which explored dance as a medium to embody the flow of Vancouver’s buried creeks.
+As a science communicator/data-driven storyteller and performance artist, Hannah merges a deep commitment to environmental and social justice with a passion for creative expression.
 
-During her seven years working with the Ancient Forest Alliance, Hannah helped to facilitate community-based outreach, communication and research around the conservation need for BC’s ancient forests. Her current role with the Southern Gulf Island-based Ecological Research Network involves creating materials for community engagement based on current and emerging forest and watershed research. In tandem with this work, Hannah is currently pursuing her PhD in Data Visualization at SFU, focusing on the communication of forest carbon data to convey forests’ role in mitigating climate change. 
+For many years, she worked with the Ancient Forest Alliance facilitating community outreach, communication and research in support of old-growth forest protection and sustainable forestry practices.
 
-With IMERSS, Hannah enjoys sharing tools and insights across disciplines, exploring ways to support the diverse communities of the Salish Sea bioregion.
+Hannah has also collaborated on a number of interdisciplinary projects, including the ecological dance film Verge: Dancing a Scarred and Sacred Landscape and site-specific performance Water Bodies. She is currently exploring ways of engaging with climate change through contemporary circus arts.
+
+In her PhD research at Simon Fraser University’s Imaginative Methods Lab, Hannah is exploring creative avenues for fostering critical data literacies surrounding biodiversity loss and climate change as part of her project Forest Carbon Futures. Alongside this work, Hannah collaborates with the Hummingbird Collective to co-create materials that merge ecology, art and design to counter misinformation and empower local communities toward ecological, climate and community resilience.
+
+With IMERSS, Hannah enjoys sharing tools and insights across disciplines, finding new ways to support the diverse communities of the Salish Sea bioregion.
 
 <div style="clear: both;"></div>
 
@@ -93,13 +95,11 @@ Jeannine lives with her partner Laurie and two of her three children, plus their
 #### Director
 ![Elaine](images/Elaine_Humphrey.png#floatleft)
 
-While pursuing her PhD in Biological Oceanography, Elaine was introduced to Electron Microscopy. She now runs world leading electron microscopy labs at UVic which are open to every discipline.
+While pursuing her PhD in Biological Oceanography, Elaine was introduced to Electron Microscopy. She now works at UVic in one of the world’s leading electron microscopy labs which is open to every discipline.
 
 The whole of the biological, chemical and physical world is of interest to Elaine, especially in how they overlap. She views the living world as an astonishing, wonderful place. One of her mandates is to get more science into elementary and middle schools and provide support to teachers—a large percentage of whom come from an arts background.
 
-Elaine’s master’s degree included a benthic meiofaunal investigation of an intertidal zone, and it was an open research project for Galiano. Sorting and identifying organisms is an intensive undertaking, and she needed help. What better way than to make it a citizen science project through IMERSS?
-
-For more information about Elaine’s career, see her interview in Women in Science. <span style="color: #FF5733;">broken link</span>
+Elaine’s master’s degree included a benthic meiofaunal investigation of an intertidal zone, and it was an open research project for Galiano. Sorting and identifying organisms is an intensive undertaking, and she needed help. What better way than to make it a citizen science project through IMERSS? She has ongoing research projects with IMERSS such as s study of the biodiversity of diatoms in the Salish Sea led by Mark Webber.
 
 <div style="clear: both;"></div>
 
@@ -118,7 +118,7 @@ As a white settler, Alysha is committed to solidarity with Indigenous-led decolo
 
 
 ### Andrew Simon
-#### President
+#### Chair
 ![Andrew](images/Andrew_Simon.png#floatleft)
 
 A biologist with over a decade of experience studying British Columbia’s interior and coastal ecosystems, Andrew’s passions lie at the intersection of natural history, community-based research, and biodiversity data science. Beginning with an apprenticeship to lichenologist Trevor Goward, his studies have since progressed through a dynamic career in the environmental sciences, working with NGOs, First Nations, academe, industry and government. Currently, he is collaborating with the [Átl’ka7tsem/Howe Sound Biosphere Region Initiative](https://www.howesoundbri.org/) to develop a biodiversity assessment framework, while pursuing a PhD studying lichen symbioses in the [Spribille Lab](https://spribillelab.wordpress.com/) at the University of Alberta.
