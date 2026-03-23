@@ -4,7 +4,7 @@ date: 2026-03-11
 ---
 
 <div class="hero-image">
-  <img src="images/Usnea_crop.jpg" alt="Usnea">
+  <img src="images/Header_footer_crop.jpg" alt="fern">
   <div class="hero-title">
     Donate
   </div>

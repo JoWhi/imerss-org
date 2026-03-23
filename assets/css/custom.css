@@ -436,8 +436,6 @@ img[src$='#floatleft'] {
   font-weight: 700;
   text-align: left;
   text-shadow: 0 2px 6px rgba(0,0,0,0.6);
-  padding: 0.5rem 1.5rem;
-  border-radius: 0.4rem;
 }
 
 /* adjust spacing */
@@ -471,8 +469,25 @@ main, .page-main, .content {
 }
 
 
-/* trying to remove whitespace between navbar and content */
-main[class*="hx-pt-4"] {
-  padding-top: 0 !important;
+/* trying (unsuccessfully) to remove whitespace between navbar and content */
+main.hx-pt-4 {
+    padding-top: 0 !important;
+    padding: 0 !important;
+}
+
+
+/* make 'edit on github' link always transparent  */
+.hextra-toc .hx-bg-white,
+.hextra-toc [class*="hx-bg-white"] {
+  background-color: transparent !important;
+  border-top-color: transparent !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+}
+
+.hextra-toc a[href*="github"],
+.hextra-toc a[href*="edit"] {
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
 }
 

@@ -35,11 +35,11 @@ IMERSS is based on Galiano Island, in the southern Gulf Islands of British Colum
 
 {{< cards >}}
   {{< card title="Mentorship" 
-    image="/about/images/Austin_SEM_4.jpg" >}}
+    image="/about/images/Austin_SEM_4_1.4.jpg" >}}
   {{< card title="Community Building" 
-    image="/about/images/Sutil_Circle_small.jpg" >}}
+    image="/about/images/Sutil_circle_3_1.4.jpg" >}}
   {{< card title="Connection to Place" 
-    image="/about/images/Marine_research.JPG" >}}
+    image="/about/images/Marine_research_1.4.jpg" >}}
 {{< /cards >}}
 
 
