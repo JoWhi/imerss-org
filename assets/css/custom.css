@@ -5,6 +5,12 @@ table {
     display: table !important;
 }
 
+/** Override further insane reset for img, svg **/
+img, svg, video, canvas, audio, iframe, embed, object {
+    display: revert;
+    vertical-align: revert;
+}
+
 :root {
     --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
     --bs-border-width: 1px;
@@ -20,7 +26,7 @@ table {
 }
 
 .nav {
-    --bs-navbar-color: rgba(255, 255, 255, 0.55);
+    --bs-navbar-color: #30638e;
     --bs-navbar-hover-color: rgba(255, 255, 255, 0.75);
     --bs-navbar-disabled-color: rgba(255, 255, 255, 0.25);
     --bs-navbar-active-color: #fff;
@@ -46,7 +52,7 @@ table {
 }
 
 .imerss-navbar {
-    background: #30638e
+    background: var(--bs-navbar-color)
 }
 
 .nav-link {
@@ -184,7 +190,7 @@ table {
     --bs-btn-font-weight: 400;
     --bs-btn-line-height: 1.5;
     /* --bs-btn-color: var(--bs-body-color);
-    --bs-btn-bg: transparent; */ 
+    --bs-btn-bg: transparent; */
     --bs-btn-color: #ffffff;
     --bs-btn-bg: #30638e;
     --bs-btn-border-width: var(--bs-border-width);
@@ -392,13 +398,7 @@ img[src$='#floatleft'] {
 
 .hero-image {
   position: relative;
-  width: 100vw;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  margin-top: 0 !important;
-  padding-top: 0 !important;
+  width: 100%;
   margin-bottom: 2rem;
   overflow: hidden;
 }
@@ -409,6 +409,9 @@ img[src$='#floatleft'] {
   display: block;
   object-fit: cover;
   max-height: 450px;
+  margin-top: 0;
+  margin-bottom: 0;
+  border-radius: 0;
 }
 
 /* for a centre title */
@@ -491,3 +494,76 @@ main.hx-pt-4 {
   -webkit-box-shadow: none !important;
 }
 
+
+
+/* ── Hextra 0.9.x dropdown navbar menus ──────────────────────────── */
+
+/* Chevron rotates when the dropdown is open */
+.hx-dropdown-chevron {
+    transition: transform 0.2s ease;
+    flex-shrink: 0;
+}
+.hx-dropdown.is-open .hx-dropdown-chevron {
+    transform: rotate(180deg);
+}
+
+/* The floating panel */
+.hx-dropdown-menu {
+    display: none;
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 50%;
+    transform: translateX(-50%);
+    min-width: 160px;
+    list-style: none;
+    margin: 0;
+    padding: 4px 0;
+    background: var(--bs-navbar-color);
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 6px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.10);
+    z-index: 50;
+    white-space: nowrap;
+}
+
+/* Dark mode panel */
+html.dark .hx-dropdown-menu {
+    background: #1a1a1a;
+    border-color: rgba(255, 255, 255, 0.10);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.40);
+}
+
+/* Show when open */
+.hx-dropdown.is-open .hx-dropdown-menu {
+    display: block;
+}
+
+/* Individual items */
+.hx-dropdown-item {
+    display: block;
+    padding: 6px 16px;
+    font-size: 0.875rem;
+    color: var(--bs-nav-link-color);
+    text-decoration: none;
+    transition: background 0.15s ease, color 0.15s ease;
+}
+.hx-dropdown-item:hover {
+    background: rgba(0, 0, 0, 0.05);
+    color: var(--bs-navbar-hover-color);
+}
+html.dark .hx-dropdown-item {
+    color: #9ca3af;          /* gray-400 */
+}
+html.dark .hx-dropdown-item:hover {
+    background: rgba(255, 255, 255, 0.07);
+    color: #f3f4f6;          /* gray-100 */
+}
+
+/* Active (current page) item */
+.hx-dropdown-item--active {
+    font-weight: 600;
+    color: var(--bs-navbar-active-color);
+}
+html.dark .hx-dropdown-item--active {
+    color: #f3f4f6;
+}

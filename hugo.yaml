@@ -100,7 +100,7 @@ params:
   hextra:
     css:
       - css/custom.css
-      
+
   description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
 
   navbar:
@@ -110,6 +110,8 @@ params:
       width: 35
       height: 30
     width: wide
+
+  toc: false
 
   page:
     # full (100%), wide (90rem), normal (1280px)
@@ -176,5 +178,3 @@ params:
       # inputPosition: top
       # lang: en
       # theme: noborder_dark
-      
-      
