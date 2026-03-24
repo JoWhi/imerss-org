@@ -1,0 +1,318 @@
+[
+	{
+		"id": "http://zotero.org/users/19905289/items/JDYJWS9V",
+		"type": "article-journal",
+		"abstract": "Based on records dating from 1859 to 2021, we provide an overview of the marine animal diversity reported for Galiano Island, British Columbia, Canada. More than 650 taxa are represented by 20,000 species occurrence records in this curated dataset, which includes dive records documented through the Pacific Marine Life Surveys, museum voucher specimens, ecological data and crowd-sourced observations from the BC Cetacean Sightings Network and iNaturalist.\n            We describe Galiano Island's marine animal diversity in relation to the Salish Sea's overall biodiversity and quantify the proportional contributions of different types of sampling effort to our current local knowledge. Overviews are provided for each taxonomic group in a format intended to be accessible to amateur naturalists interested in furthering research into the region's marine biodiversity. In summary, we find that the Pacific Marine Life Surveys, a regional community science diving initiative, account for 60% of novel records reported for Galiano Island. Voucher specimens account for 19% and crowd-sourced biodiversity data 18% of novel records, respectively, with the remaining 3% of reports coming from other sources. These findings shed light on the complementarity of different types of sampling effort and demonstrate the potential for community science to contribute to the global biodiversity research community. We present a biodiversity informatics framework that is designed to enable these practices by supporting collaboration among researchers and communities in the collection, curation and dissemination of biodiversity data.",
+		"container-title": "Biodiversity Data Journal",
+		"DOI": "10.3897/BDJ.10.e76050",
+		"ISSN": "1314-2828, 1314-2836",
+		"journalAbbreviation": "BDJ",
+		"license": "https://creativecommons.org/share-your-work/public-domain/cc0/",
+		"page": "e76050",
+		"source": "DOI.org (Crossref)",
+		"title": "Toward an atlas of Salish Sea biodiversity: the flora and fauna of Galiano Island, British Columbia, Canada. Part I. Marine zoology",
+		"title-short": "Toward an atlas of Salish Sea biodiversity",
+		"URL": "https://bdj.pensoft.net/article/76050/",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Simon",
+				"given": "Andrew"
+			},
+			{
+				"family": "Adamczyk",
+				"given": "Emily"
+			},
+			{
+				"family": "Basman",
+				"given": "Antranig"
+			},
+			{
+				"family": "Chu",
+				"given": "Jackson"
+			},
+			{
+				"family": "Gartner",
+				"given": "Heidi"
+			},
+			{
+				"family": "Fletcher",
+				"given": "Karin"
+			},
+			{
+				"family": "Gibbs",
+				"given": "Charles"
+			},
+			{
+				"family": "Gibbs",
+				"given": "Donna"
+			},
+			{
+				"family": "Gilmore",
+				"given": "Scott"
+			},
+			{
+				"family": "Harbo",
+				"given": "Rick"
+			},
+			{
+				"family": "Harris",
+				"given": "Leslie"
+			},
+			{
+				"family": "Humphrey",
+				"given": "Elaine"
+			},
+			{
+				"family": "Lamb",
+				"given": "Andy"
+			},
+			{
+				"family": "Lambert",
+				"given": "Philip"
+			},
+			{
+				"family": "McDaniel",
+				"given": "Neil"
+			},
+			{
+				"family": "Scott",
+				"given": "Jessica"
+			},
+			{
+				"family": "Starzomski",
+				"given": "Brian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					3,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/19905289/items/ALL7XSXA",
+		"type": "article-journal",
+		"abstract": "Abstract\n            \n              Background\n              Plant–pollinator community diversity has been found to decrease under conditions of drought stress;  however, research into the temporal dimensions of this phenomenon remains limited. In this study, we investigated the effect of seasonal drought on the temporal niche dynamics of entomophilous flowering plants in a water‐limited ecosystem. We hypothesized that closely related native and exotic plants would tend to share similar life history and that peak flowering events would therefore coincide with phylogenetic clustering in plant communities based on expected phenological responses of plant functional types to limitations in soil moisture availability.\n            \n            \n              Location\n              Galiano Island, British Columbia, Canada.\n            \n            \n              Methods\n              Combining methods from pollinator research and phylogenetic community ecology, we tested the influence of environmental filtering over plant community phenology across gradients of landscape disturbance and soil moisture. Floral resource availability and community structure were quantified by counts of flowering shoots. We constructed a robust phylogeny to analyze spatial and temporal variation in phylogenetic patterns across the landscape, testing the significance of the observed patterns against a randomly generated community phylogeny. Phylogenetic metrics were then regressed against factors of disturbance and soil moisture availability.\n            \n            \n              Results\n              Critical seasonal fluctuations in floral resources coincided with significant phylogenetic clustering in plant communities, with decreasing plant diversity observed under conditions of increasing drought stress. Exotic plant species in the Asteraceae became increasingly pervasive across the landscape, occupying a late season temporal niche in drought‐stressed environments.\n            \n            \n              Main conclusion\n              Results suggest that environmental filtering is the dominant assembly process structuring the temporal niche of plant communities in this water‐limited ecosystem. Based on these results, and trends seen elsewhere, the overall diversity of plant–pollinator communities may be expected to decline with the increasing drought stress predicted under future climate scenarios.",
+		"container-title": "Ecology and Evolution",
+		"DOI": "10.1002/ece3.7776",
+		"ISSN": "2045-7758, 2045-7758",
+		"issue": "15",
+		"journalAbbreviation": "Ecology and Evolution",
+		"language": "en",
+		"page": "10042-10053",
+		"source": "DOI.org (Crossref)",
+		"title": "Phylogenetic restriction of plant invasion in drought‐stressed environments: Implications for insect‐pollinated plant communities in water‐limited ecosystems",
+		"title-short": "Phylogenetic restriction of plant invasion in drought‐stressed environments",
+		"URL": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.7776",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Simon",
+				"given": "Andrew D. F."
+			},
+			{
+				"family": "Marx",
+				"given": "Hannah E."
+			},
+			{
+				"family": "Starzomski",
+				"given": "Brian M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/19905289/items/YKTR8B5Z",
+		"type": "article-journal",
+		"abstract": "Bioblitzes are a tool for the rapid appraisal of biodiversity and are particularly useful in remote and understudied regions and for understudied taxa. Lichens are an example of an often overlooked group, despite being widespread in virtually all terrestrial ecosystems and having many important ecological functions.\n            \n              We report the lichens and allied fungi collected during the 2018 terrestrial bioblitz conducted on Calvert Island on the Central Coast of British Columbia, Canada. We identified 449 specimens belonging to 189 species in 85 genera, increasing the total number of species known from Calvert Island to 194, and generated Internal Transcribed Spacer (ITS) sequences for 215 specimens from 121 species.\n              Bryoria furcellata\n              ,\n              Chaenothecopsis lecanactidis\n              and\n              C. nigripunctata\n              were collected for the first time in British Columbia. We also found\n              Pseudocyphellaria rainierensis\n              , which is listed as Special Concern on the federal Species at Risk Act, and other rarely reported species in British Columbia including\n              Opegrapha sphaerophoricola\n              ,\n              Protomicarea limosa\n              ,\n              Raesaenenia huuskonenii\n              and\n              Sarea difformis\n              . We demonstrate that DNA barcoding improves the scope and accuracy of expert-led bioblitzes by facilitating the detection of cryptic species and allowing for consistent identification of chemically and morphologically overlapping taxa. Despite the spatial and temporal limitations of our study, the results highlight the value of intact forest ecosystems on the Central Coast of British Columbia for lichen biodiversity, education and conservation.",
+		"container-title": "Biodiversity Data Journal",
+		"DOI": "10.3897/BDJ.12.e120292",
+		"ISSN": "1314-2828, 1314-2836",
+		"journalAbbreviation": "BDJ",
+		"license": "https://creativecommons.org/share-your-work/public-domain/cc0/",
+		"page": "e120292",
+		"source": "DOI.org (Crossref)",
+		"title": "DNA barcoding aids in generating a preliminary checklist of the lichens and allied fungi of Calvert Island, British Columbia: Results from the 2018 Hakai Terrestrial BioBlitz",
+		"title-short": "DNA barcoding aids in generating a preliminary checklist of the lichens and allied fungi of Calvert Island, British Columbia",
+		"URL": "https://bdj.pensoft.net/article/120292/",
+		"volume": "12",
+		"author": [
+			{
+				"family": "McMullin",
+				"given": "Richard"
+			},
+			{
+				"family": "Simon",
+				"given": "Andrew"
+			},
+			{
+				"family": "Brodo",
+				"given": "Irwin"
+			},
+			{
+				"family": "Wickham",
+				"given": "Sara"
+			},
+			{
+				"family": "Bell-Doyon",
+				"given": "Philip"
+			},
+			{
+				"family": "Kuzmina",
+				"given": "Maria"
+			},
+			{
+				"family": "Starzomski",
+				"given": "Brian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					2,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/19905289/items/LEWXRZ36",
+		"type": "article-journal",
+		"abstract": "Societal Impact Statement\n            \n              \n              The global biodiversity crisis stems from a cascading series of extirpations driving species toward extinction. Addressing this crisis requires methods for early detection of extinction at local scales, where communities can mobilize conservation efforts. We present a method for the detection of species extirpation, harnessing biological specimens, community science, and targeted surveys. Our framework aligns with the International Union for the Conservation of Nature (IUCN) extinction criteria and provides a practical means of testing the hypothesis of extinction. By streamlining the integration of data into a practical framework for inference, our approach overcomes key challenges in inferring local extinction risk, supporting efforts to detect and mitigate biodiversity loss.\n            \n            \n              Summary\n              \n                \n                  \n                    Extinction results when all local populations have been extirpated. We therefore require systems for the detection of extirpation to contend with this global problem at its source.\n                  \n                  \n                    Through a baseline analysis incorporating half a century of historical collection data with 5 years of data gathered via a community biodiversity project, we identified 10 plant species from Galiano Island, BC, Canada, that had not been seen recently as suitable subjects for this study. These became the target of systematic surveys over an additional 4 years. Using these data, we applied a Bayesian framework to estimate the probability of species' absences within regions of suitable (historical and potential) habitat, in accordance with the IUCN extinction criteria.\n                  \n                  \n                    \n                      Six target species were redetected. For the others, we inferred conditional extirpation probabilities based on relaxed (only historical habitat patches) and strict (all potential habitat) interpretations of the IUCN criteria. Under a relaxed interpretation of IUCN criteria, we found a high probability ~95% of extirpation (local extinction) for two species (\n                      \n                        Crassula connata\n                      \n                      and\n                      \n                        Primula pauciflora\n                      \n                      ); under strict criteria, we inferred extirpation probabilities of 89.1% and 83.7%.\n                    \n                  \n                  \n                    We demonstrate a framework for the detection of species extirpation, harnessing historical collections, community science, and targeted surveys to meet the IUCN extinction criteria with explicitly defined degrees of confidence.\n                  \n                \n              \n            \n          , \n            La pérdida de la biodiversidad como crisis global tiene su origen en una serie de eventos de extirpación en cascada que empujan a las especies hacia la extinción. Atender a esta crisis requiere métodos para detectar la extinción de manera temprana y a escala local, en los cuales las comunidades puedan participar en los esfuerzos de conservación. Incorporando especímenes biológicos, ciencia comunitaria y prospecciones dirigidas, desarrollamos un método para la detección de la extirpación de especies; el cual se alinea con los criterios de extinción de la UICN y proporciona medios prácticos para comprobar la hipótesis de extinción. Al agilizar la integración de los datos en un marco práctico de inferencia, nuestra propuesta supera los retos que surgen al inferir el riesgo de extinción local y favorece los esfuerzos para detectar y mitigar la pérdida de biodiversidad.\n          , \n            La crise mondiale de la biodiversité découle d'une série d'extinctions locales en cascade, entraînant les espèces vers l'extinction totale. Pour y faire face, il est nécessaire de disposer de méthodes permettant la détection précoce de l'extinction à l'échelle locale, où les communautés peuvent mobiliser des efforts de conservation. Nous présentons une méthode pour détecter l'extirpation des espèces, en conjuguant l'utilisation de spécimens biologiques, de science communautaire et lesdes inventaires ciblés. Notre cadre de référence s'appuie sur les critères d'extinction de l'UICN et offre un moyen pratique de tester l'hypothèse d'extinction. En simplifiant l'intégration des données dans notre cadre pratique, notre approche améliore nos capacités d'estimation des extinctions locales, soutenant ainsi les efforts de détection et d'atténuation de la perte de biodiversité.",
+		"container-title": "PLANTS, PEOPLE, PLANET",
+		"DOI": "10.1002/ppp3.70130",
+		"ISSN": "2572-2611, 2572-2611",
+		"journalAbbreviation": "Plants People Planet",
+		"language": "en",
+		"page": "ppp3.70130",
+		"source": "DOI.org (Crossref)",
+		"title": "Detecting extirpation: A localized approach to a global problem",
+		"title-short": "Detecting extirpation",
+		"URL": "https://nph.onlinelibrary.wiley.com/doi/10.1002/ppp3.70130",
+		"author": [
+			{
+				"family": "Simon",
+				"given": "Andrew D. F."
+			},
+			{
+				"family": "Basman",
+				"given": "Antranig"
+			},
+			{
+				"family": "Martin",
+				"given": "R. Adam"
+			},
+			{
+				"family": "Robinson",
+				"given": "Caitlin"
+			},
+			{
+				"family": "Cronk",
+				"given": "Quentin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					11,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/19905289/items/ZMCCMPRE",
+		"type": "article-journal",
+		"container-title": "Northwest Science",
+		"DOI": "10.3955/046.096.0305",
+		"ISSN": "0029-344X",
+		"issue": "3-4",
+		"journalAbbreviation": "Northwest Science",
+		"source": "DOI.org (Crossref)",
+		"title": "Evidence of Bumble Bee Extirpation and Colonization, Galiano Island, British Columbia, Canada",
+		"URL": "https://bioone.org/journals/northwest-science/volume-96/issue-3-4/046.096.0305/Evidence-of-Bumble-Bee-Extirpation-and-Colonization-Galiano-Island-British/10.3955/046.096.0305.full",
+		"volume": "96",
+		"author": [
+			{
+				"family": "Simon",
+				"given": "Andrew D. F."
+			},
+			{
+				"family": "Best",
+				"given": "Lincoln R."
+			},
+			{
+				"family": "Starzomski",
+				"given": "Brian M."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					3,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					12,
+					19
+				]
+			]
+		}
+	}
+]
