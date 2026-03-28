@@ -28,7 +28,7 @@ languages:
   en:
     languageName: English
     weight: 1
-    title:
+    title: IMERSS
 
 module:
   hugoVersion:
@@ -104,7 +104,7 @@ params:
   description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
 
   navbar:
-    displayTitle: false
+    displayTitle: true
     displayLogo: true
     logo:
       width: 35

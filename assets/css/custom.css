@@ -104,6 +104,7 @@ img, svg, video, canvas, audio, iframe, embed, object {
 }
 
 .imerss-overlay-inner {
+    margin: 0 1rem;
     position: relative;
     z-index: 1;
 }
@@ -441,6 +442,12 @@ img[src$='#floatleft'] {
   text-shadow: 0 2px 6px rgba(0,0,0,0.6);
 }
 
+@media (max-width: 630px) {
+    .hero-image .hero-title {
+        top: 0.2rem;
+    }
+}
+
 /* adjust spacing */
 .content br.hx-mt-1.5,
 .content div.hx-mb-16 {
@@ -472,13 +479,6 @@ main, .page-main, .content {
 }
 
 
-/* trying (unsuccessfully) to remove whitespace between navbar and content */
-main.hx-pt-4 {
-    padding-top: 0 !important;
-    padding: 0 !important;
-}
-
-
 /* make 'edit on github' link always transparent  */
 .hextra-toc .hx-bg-white,
 .hextra-toc [class*="hx-bg-white"] {
@@ -497,6 +497,20 @@ main.hx-pt-4 {
 
 
 /* ── Hextra 0.9.x dropdown navbar menus ──────────────────────────── */
+
+.imerss-navbar-links {
+    display: flex;
+}
+
+@media (max-width: 860px) {
+    .imerss-navbar-links  {
+        display: none;
+    }
+}
+
+.hx-dropdown {
+    white-space: nowrap;
+}
 
 /* Chevron rotates when the dropdown is open */
 .hx-dropdown-chevron {
@@ -566,4 +580,14 @@ html.dark .hx-dropdown-item:hover {
 }
 html.dark .hx-dropdown-item--active {
     color: #f3f4f6;
+}
+
+/** Extra fix for mobile sidebar collapsible button **/
+
+.hextra-sidebar-collapsible-button svg {
+    overflow: visible;
+}
+
+.hamburger-menu {
+    display: flex;
 }

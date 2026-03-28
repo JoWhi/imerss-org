@@ -2525,7 +2525,7 @@ nav .search-wrapper {
 @media (min-width: 768px) {
 
   nav .search-wrapper {
-    display: inline-block;
+    display: flex;
   }
 }
 @supports (
